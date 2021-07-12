@@ -1,0 +1,19 @@
+form {
+  border: 1px solid #545454;
+  border-radius: 15px;
+  padding: 40px;
+  background-color: #c9d8b6d5;
+
+  .btn {
+    background-color: #57837b;
+    text-transform: capitalize;
+  }
+}
+
+input {
+  padding: 5px 20px;
+  width: 100%;
+  line-height: 16px;
+  margin: 10px 0;
+  text-align: center;
+}
